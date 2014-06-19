@@ -1,0 +1,15 @@
+C:\Users\kubrick\AppData\Local\Temporary Projects\InvisibleMan\bin\Debug\InvisibleMan.exe
+C:\Users\kubrick\AppData\Local\Temporary Projects\InvisibleMan\bin\Debug\InvisibleMan.pdb
+C:\Users\kubrick\AppData\Local\Temporary Projects\InvisibleMan\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kubrick\AppData\Local\Temporary Projects\InvisibleMan\obj\x86\Debug\MainWindow.baml
+C:\Users\kubrick\AppData\Local\Temporary Projects\InvisibleMan\obj\x86\Debug\MainWindow.g.cs
+C:\Users\kubrick\AppData\Local\Temporary Projects\InvisibleMan\obj\x86\Debug\App.g.cs
+C:\Users\kubrick\AppData\Local\Temporary Projects\InvisibleMan\obj\x86\Debug\InvisibleMan_MarkupCompile.cache
+C:\Users\kubrick\AppData\Local\Temporary Projects\InvisibleMan\obj\x86\Debug\InvisibleMan.g.resources
+C:\Users\kubrick\AppData\Local\Temporary Projects\InvisibleMan\obj\x86\Debug\InvisibleMan.Properties.Resources.resources
+C:\Users\kubrick\AppData\Local\Temporary Projects\InvisibleMan\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kubrick\AppData\Local\Temporary Projects\InvisibleMan\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\kubrick\AppData\Local\Temporary Projects\InvisibleMan\obj\x86\Debug\InvisibleMan.exe
+C:\Users\kubrick\AppData\Local\Temporary Projects\InvisibleMan\obj\x86\Debug\InvisibleMan.pdb
+C:\Users\kubrick\Documents\Visual Studio 2010\Projects\InvisibleMan\InvisibleMan\obj\x86\Debug\InvisibleMan.exe
+C:\Users\kubrick\Documents\Visual Studio 2010\Projects\InvisibleMan\InvisibleMan\obj\x86\Debug\InvisibleMan.pdb
